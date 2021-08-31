@@ -6,3 +6,5 @@ this is test repository to learn more sbout github.
 lorem ipsum dummy 321
 
 github can scan code to deploy an app immediately
+ * this is a list item
+ * 
